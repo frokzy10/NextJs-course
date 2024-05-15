@@ -1,0 +1,14 @@
+.link {
+  transition: all 100ms;
+  margin: 0 10px;
+
+}
+
+.active {
+  color: red;
+}
+
+.navItem {
+  display: inline-block;
+  align-items: center;
+}

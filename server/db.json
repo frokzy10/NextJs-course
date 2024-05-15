@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "_id": 1,
+      "name": "Nike Dri-FIT",
+      "slug": "nike-dri-fit",
+      "price": 30,
+      "category": "Men",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrlXjWPFfVzELVLYzUifPi09UbY49POLs-19nxWbW9iA&s"
+    },
+    {
+      "_id": 2,
+      "name": "Nike Windrunner",
+      "slug": "nike-windrunner",
+      "price": 200,
+      "category": "Men",
+      "images": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ca929f7e-f433-46b7-8d83-1a6171c172ce/revolution-7-easyon-road-running-shoes-nNqdwt.png"
+    },
+    {
+      "_id": 3,
+      "name": "Nike Air Force",
+      "slug": "nike-air-force",
+      "price": 85,
+      "category": "Teens",
+      "images": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/9ac74d98-a24a-4a36-9799-d3a0438ab780/air-max-plus-shoes-49hns6.png"
+    },
+    {
+      "_id": 4,
+      "name": "Nike Air ",
+      "slug": "nike-air-force-nurdin",
+      "price": 90,
+      "category": "Teens",
+      "images": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/00bb15dd-4e67-4cac-b684-bbcbf0c25a28/air-max-plus-womens-shoes-47Sxw5.png"
+    },
+    {
+      "_id": 5,
+      "name": "Nike Air Dunk",
+      "slug": "nike-air-force-nurdin",
+      "price": 95,
+      "category": "Teens",
+      "images": "https://i.ebayimg.com/images/g/wUYAAOSwAFZjrWYp/s-l1200.webp"
+    }
+  ]
+}

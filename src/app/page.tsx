@@ -1,16 +1,24 @@
-import Link from "next/link";
 import type {Metadata} from "next";
+import Hero from "@/widgets/hero/ui/Hero";
+import Catalog from "@/widgets/catalog/Catalog";
+import {GetProductService} from "@/features/getProductList/service/getProduct.service";
 
 export const metadata: Metadata = {
     title: "Home Page",
     description:"Home Page Description"
 }
 
-export default function Home() {
+async function getProduct(){
+    const data = await GetProductService.getAll();
+    return data
+}
+
+export default async function Home() {
+    const data = await getProduct()
     return (
         <div>
-            <h2>Hello Next-js Course</h2>
-            <Link href="/catalog">Go to Catalog</Link>
+            <Hero/>
+            <Catalog products={data} isFull={false}/>
         </div>
     );
 }
