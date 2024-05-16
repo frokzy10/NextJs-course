@@ -6,13 +6,13 @@ export const metadata: Metadata = {
     title: 'Catalog',
 }
 
-async function getProducts() {
-    const data = await GetProductService.getAll()
-    return data
-}
+// async function getProducts() {
+//     const data = await GetProductService.getAll()
+//     return data
+// }
 
 export default async function CatalogPage() {
-    const data = await getProducts()
+    // const data = await getProducts()
 
-    return <Catalog isFull={false} products={data} />
+    // return <Catalog isFull={false} products={data} />
 }

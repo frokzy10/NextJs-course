@@ -1,1 +1,1 @@
-export const $API = "http://localhost:5000/products"
+export const $API = "http://localhost:6000/api"

@@ -8,17 +8,17 @@ export const metadata: Metadata = {
     description:"Home Page Description"
 }
 
-async function getProduct(){
-    const data = await GetProductService.getAll();
-    return data
-}
+// async function getProduct(){
+//     const data = await GetProductService.getAll();
+//     return data
+// }
 
 export default async function Home() {
-    const data = await getProduct()
+    // const data = await getProduct()
     return (
         <div>
             <Hero/>
-            <Catalog products={data} isFull={false}/>
+            {/*<Catalog products={data} isFull={false}/>*/}
         </div>
     );
 }

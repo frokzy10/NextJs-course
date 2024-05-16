@@ -1,5 +1,14 @@
 {
-  "node": {},
+  "node": {
+    "e394a7ae7c68b0c7c22f924a26188f49f610b105": {
+      "workers": {
+        "app/(loginregister)/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fapp%2F(loginregister)%2Fregister%2FRegister.tsx%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(loginregister)/register/page": "rsc"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "dfRGQG7+ckZrUTYFX6Wx18/3RlQidG1KJ7iU5Xi/we8="
+  "encryptionKey": "dWTh3nLiHpYKVKBr4NunvcGicRK3cagtrkJnyuOCKu4="
 }
