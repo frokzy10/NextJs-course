@@ -2,6 +2,7 @@ import React from "react";
 import type {Metadata} from "next";
 import "./globals.scss";
 import Header from "@/widgets/header/ui/Header";
+import StoreProvider from "@/providers/storeProvider/ui/storeProvider";
 
 
 export const metadata: Metadata = {
@@ -18,7 +19,9 @@ export default function RootLayout({children}: RootLayoutProps) {
         <html lang="en">
         <body>
         <Header/>
-        {children}
+        <StoreProvider>
+            {children}
+        </StoreProvider>
         </body>
         </html>
     );

@@ -1,30 +1,36 @@
 const express = require("express");
-const mongoose = require("mongoose");
 const cors = require("cors");
-const app = express();
-const model = require("./features/models/user-model")
 
-const PORT = 6000;
+const app = express();
+const collection = require("./features/models/user-model")
+
 app.use(express.json());
-app.use(express.urlencoded({extended:true}))
+app.use(express.urlencoded({extended: true}))
 app.use(cors());
 
-mongoose.connect("mongodb://localhost:27017/employee");
+app.get("/",cors(),(req,res)=>{
+
+})
 
 app.post("/register", async (req, res) => {
-    const {username,password} = req.body;
-    try {
-        const checked = await model.findOne({username: username})
-        if(checked){
-            res.json("exist")
-        }else{
-            res.json("notexist")
-        }
-    }catch (e){
-        console.log(e);
+    const {username, password} = req.body
+    const data = {
+        username: username,
+        password: password
     }
-})
+    try {
+        const check = await collection.findOne({username: username})
+        if (check) {
+            res.json("exist")
+        } else {
+            res.json("notexist")
+            await collection.insertMany([data])
+        }
+    } catch (e) {
+        res.json("fail")
+    }
+});
 
-app.listen(PORT, () => {
-    console.log(`Сервер запушен на порту ${PORT}`)
-})
+app.listen(6000, () => {
+    console.log(`Сервер запушен на порту ${6000}`)
+});

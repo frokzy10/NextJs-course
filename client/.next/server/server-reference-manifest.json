@@ -1,14 +1,114 @@
 {
   "node": {
-    "e394a7ae7c68b0c7c22f924a26188f49f610b105": {
+    "007b97affd70d001b17ac0cb2a316b8c5e9ae576": {
       "workers": {
-        "app/(loginregister)/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fapp%2F(loginregister)%2Fregister%2FRegister.tsx%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=!"
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!",
+        "app/(dashboard)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!",
+        "app/(loginregister)/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
+        "app/page": "rsc",
+        "app/(dashboard)/profile/page": "rsc",
+        "app/(loginregister)/register/page": "rsc"
+      }
+    },
+    "0da8865a181ef09d426cda7b34557a3e677fb51f": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!",
+        "app/(dashboard)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!",
+        "app/(loginregister)/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/(dashboard)/profile/page": "rsc",
+        "app/(loginregister)/register/page": "rsc"
+      }
+    },
+    "326811a827d2331dfd85b4a9d77fe10bdcc5e1e2": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!",
+        "app/(dashboard)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!",
+        "app/(loginregister)/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/(dashboard)/profile/page": "rsc",
+        "app/(loginregister)/register/page": "rsc"
+      }
+    },
+    "48894100eb9744c17d1d34fa270d088d35e7c5aa": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!",
+        "app/(dashboard)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!",
+        "app/(loginregister)/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/(dashboard)/profile/page": "rsc",
+        "app/(loginregister)/register/page": "rsc"
+      }
+    },
+    "762cd2480d1a9a2e46699fc1d1abf3e196e880f2": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!",
+        "app/(dashboard)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!",
+        "app/(loginregister)/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/(dashboard)/profile/page": "rsc",
+        "app/(loginregister)/register/page": "rsc"
+      }
+    },
+    "87926845687936e3ecd3516e6182583c68ef72f8": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!",
+        "app/(dashboard)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!",
+        "app/(loginregister)/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/(dashboard)/profile/page": "rsc",
+        "app/(loginregister)/register/page": "rsc"
+      }
+    },
+    "a2a9cd02fe7f89fe583c051c7dc15164e531556f": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!",
+        "app/(dashboard)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!",
+        "app/(loginregister)/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/(dashboard)/profile/page": "rsc",
+        "app/(loginregister)/register/page": "rsc"
+      }
+    },
+    "a71388761bb87e38f5b2c6017b77e8e30801fc41": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!",
+        "app/(dashboard)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!",
+        "app/(loginregister)/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/(dashboard)/profile/page": "rsc",
+        "app/(loginregister)/register/page": "rsc"
+      }
+    },
+    "b3e5a39b13a8a4c7d0e3e463545e7500889e1e11": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!",
+        "app/(dashboard)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!",
+        "app/(loginregister)/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnurdinbakytbekov%2FDesktop%2Fnext-js%2Fclient%2Fsrc%2Fentities%2FForm%2Fmodel%2Freducer%2FFormReducer.tsx%22%2C%5B%22setUsernameAction%22%2C%22FormName%22%2C%22FormActions%22%2C%22setPasswordAction%22%2C%22FormReducer%22%2C%22setIsLoadingAction%22%2C%22name%22%2C%22reducer%22%2C%22actions%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/(dashboard)/profile/page": "rsc",
         "app/(loginregister)/register/page": "rsc"
       }
     }
   },
   "edge": {},
-  "encryptionKey": "dWTh3nLiHpYKVKBr4NunvcGicRK3cagtrkJnyuOCKu4="
+  "encryptionKey": "nDT/R4vC6QBv+U1PJQEHGg1vGEZqa6UFBGk1NFV+fwg="
 }
